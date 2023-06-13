@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "transcricaoaudiencias",
+  "private_key_id": "6a129ea659f4ae49798314f495857b892f07a1e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkltOPpqWonYYn\nayVZIKh+3/aNmtdlm3AnT34j3CcGteI2LtyjBmgByFys9N3MkJQmeX/FI3E9scwx\nYO+cRsglh2YBjcKgM3AFyA+bnw0hEk4i98Q2xpnBYdU+BrwPyzOyEo7hoOsJJgYB\n+kDgq/jpITeYmQHE9tvrw4FAoXf8YU//L3nfKkS/lV9mjyvSA4uhr+yij1EvMia3\ngRVFb/55RnrHVIdX+zuuNFnHBU8KyEmKJELE8qxWJ48jxL2KQcyAS9+/7DafZPOa\nBlvEFgkpOwDc1/HQL4ZWAikUtSuwszdDtsbfU+8g6+X2IQZjTo7bA/yhpLDHq7D3\nEFn59DhZAgMBAAECgf9hq3S1ikRECzZ7rdmRSmVdj7TVKKMpvf6QAAbwFh9n8VyL\n9W3OUGmSpT5ZufWPrzw7Q155s3k/uIKzyr0Qv/AwVROeAxcRJMpqo+NJ4Nipsh3W\nzQZjJaJDCmDArhPA9j93LLbIA0t2jQSDp+itarVgTZXwYtvp8OlmFF5fPB03u+id\njSmLnYg/fp7ITp/d80WuzHxupTvccHUcjqQYHFsB1sODym5eNKgEGUiEPwKWLmJW\nuWJVFO5x6o6IQe5cby33ZYXrP/uyk+v7JoZb9qB83Cf8YPnqkkwj5XfIVd6lm8rF\nxI7qUUrR+iBU8wZ/TgsmxrmSCoEf+S42/oZ83kECgYEA3gdhv232VOOfHbIhF6Xg\nBMg+2TFjCiKUy8a5plkIy2t0uzQEizi4TrpNoZILdWv7SjqpPB/1E4RvI+/nzTyV\nEN4/BQXyOUn6xKtmVyxSynmYAFILr+kFrYflVmKYcK0dLXyTXPBwVVoP/9ZB87PJ\n8wjXD8LwrESpOiCZk2tZUfkCgYEAvcWZBWhzI6BgFJT0w/m9V3D79JR6xxvFHwhY\noaTILfC0OSbPcaxxFd1sms22QmFkbYNBovxk7bumKQHnHHqOwNsTeODWEIUyp1Ht\nGle/VhRYeSYNVuQiUy6uZ6tIJaDm4xRpxb7KiR1UeeVTcowiqWArurbvbtEgAEfG\njiKnsWECgYEAmfCmTjKwqzTSuqUpmprQkqBAKxi54WoOnqbfSz3KAjgzzCQJznl6\nGGPFtXNr7HL83P+FHQHPS0P0RwdsQXlypSpiqVnxEtV/P+LS5zf9AxOBVx+LqOC4\nphNl6BoeNWlhpIsOJU8zo4n5M9nbClwqdg44Bl6Tve0xI/M8Z+DzIgkCgYBtVi6O\n1hoYeatB0HyheP8lJRyVUwLWOuK8uXNPVoBbL6a2kuzMQp05CsUq/8C1yCUzj38+\np4qDCi12zPjaCKa86Lv0Vh4fkI6ZpnMkTVAZCUncKxdea7x3Dps/cYj03RqJ1NYI\nL5/Dlhl4za7hfWnvClDHl+SlhWmZn8D/XWoeoQKBgQCnkNe2Y75PjDMHfEXB1J2V\nq+HdZ9Hb9nx0UnWSeB/pTxPy0kj+uURq+nUDaDskCPdOkE1hxj3HpVP6mgMcC3vi\n81Va/GQ7XicgTK0P1CZpNtenJJ4K/gGJyGTUsfvTIMKkOPeU5Q7zSDf7pwnCwyQf\nau7F5/VwWwIfecH7/z8Jtg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "keytobucket@transcricaoaudiencias.iam.gserviceaccount.com",
+  "client_id": "115302509478557800715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/keytobucket%40transcricaoaudiencias.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
